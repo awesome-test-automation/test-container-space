@@ -1,3 +1,0 @@
-2021-10-06 20:28:45
-Init DB
-DB creation done
