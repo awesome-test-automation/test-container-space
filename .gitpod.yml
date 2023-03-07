@@ -2,7 +2,7 @@
 tasks:
   - name: Testcontainer
     init: cd node-sample && npm install && npm build
-    command: npm run test
+    command: npm test
 
 # List the ports to expose. Learn more: https://www.gitpod.io/docs/configure/workspaces/ports
 ports:
