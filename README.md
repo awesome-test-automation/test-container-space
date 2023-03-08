@@ -1,2 +1,4 @@
 ## TestContainers samples for Node
-for more info [link](https://github.com/testcontainers/testcontainers-node/tree/main/docs)
+For more info:
+- [repo samples link](https://github.com/testcontainers/testcontainers-node/tree/main/docs)
+- [oficial site node samples](https://node.testcontainers.org/quickstart/)
